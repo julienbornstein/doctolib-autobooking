@@ -15,3 +15,8 @@ framework:
     #fragments: true
     php_errors:
         log: true
+
+    http_client:
+        default_options:
+            headers:
+                'User-Agent': 'react-native/ios/3.2.24'
