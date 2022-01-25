@@ -13,14 +13,14 @@
         "doctrine/annotations": "^1.0",
         "julienbornstein/doctolib-php": "^0.1.0",
         "phpdocumentor/reflection-docblock": "^5.2",
-        "symfony/console": "5.2.*",
-        "symfony/dotenv": "5.2.*",
+        "symfony/console": "5.4.*",
+        "symfony/dotenv": "5.4.*",
         "symfony/flex": "^1.3.1",
-        "symfony/framework-bundle": "5.2.*",
-        "symfony/property-access": "5.2.*",
-        "symfony/property-info": "5.2.*",
-        "symfony/serializer": "5.2.*",
-        "symfony/yaml": "5.2.*"
+        "symfony/framework-bundle": "5.4.*",
+        "symfony/property-access": "5.4.*",
+        "symfony/property-info": "5.4.*",
+        "symfony/serializer": "5.4.*",
+        "symfony/yaml": "5.4.*"
     },
     "config": {
         "optimize-autoloader": true,
@@ -65,7 +65,7 @@
     "extra": {
         "symfony": {
             "allow-contrib": false,
-            "require": "5.2.*"
+            "require": "5.4.*"
         }
     },
     "require-dev": {
